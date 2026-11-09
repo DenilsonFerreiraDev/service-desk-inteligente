@@ -1,0 +1,19 @@
+# Ambiente virtual
+.venv/
+
+# Configurações do PyCharm
+.idea/
+
+# Arquivos Python
+__pycache__/
+*.pyc
+
+# Variáveis de ambiente
+.env
+
+# Testes
+.pytest_cache/
+
+# Sistema
+.DS_Store
+Thumbs.db
